@@ -3,10 +3,15 @@
 Game A Week(1週間ゲーム制作)に挑戦し、「1週間で企画から完成までもっていくこと」
 を目標に制作しました
 
-# スクリーンショット
+## スクリーンショット
+# Title
+<img width="470" height="264" alt="スクリーンショット 2026-06-07 021750" src="https://github.com/user-attachments/assets/0edb3501-ed54-41df-ac1b-7906a8d77123" />
 
-     Title
-     <img width="1883" height="1056" alt="スクリーンショット 2026-06-07 021750" src="https://github.com/user-attachments/assets/bc64c920-5734-4fe7-b5f4-629a956d2d70" />
+# Game
+<img width="470" height="264" alt="スクリーンショット 2026-06-07 021821" src="https://github.com/user-attachments/assets/5ee418c6-b12d-4e68-a927-e944d6605422" />
+
+
+
 
 
 ## 概要
